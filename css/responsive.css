@@ -1,0 +1,781 @@
+@media screen and (max-width: 768px) {
+    .btn.btn-lg.btn-outline-secondary.pull-right.rightSIde_btn{
+      float: none !important;
+    }
+    .testimonials {
+      max-height: 700px;
+    }
+    .icon-overlay {
+      height: 300px;
+      top: calc(50% - 150px);
+    }
+    .carousel-controls .control {
+      width: 25px;
+      height: 25px;
+      top: inherit;
+    }
+    .prev {
+      left: 0;
+    }
+    .next {
+      right: 0;
+    }
+    .control i {
+      font-size: .7rem;
+    }
+    .testimonials .message {
+      font-size: 1rem;
+    }
+    .testimonials h2 {
+      font-size: 1.5rem;
+    }
+    .aboutpage-title {
+      position: relative;
+      font-size: 19px;
+      font-weight: 800;
+      color: #000;
+      text-transform: uppercase;
+      text-align: center;
+      line-height: 30px;
+    }
+    a.navbar-brand > img {
+      width: 114px !important;
+      height: auto;
+    }
+    .about_title {
+      font-size: 17px;
+      margin-bottom: 30px;
+      position: relative;
+      padding: 0px;
+      background: transparent;
+      text-transform: uppercase;
+      font-weight: 400;
+      color: #323232;
+      letter-spacing: 5px;
+      text-align: center;
+      font-family: Lato;
+    }
+    .team_title {
+      font-size: 17px;
+      margin-bottom: 30px;
+      position: relative;
+      padding: 0px;
+      background: transparent;
+      text-transform: uppercase;
+      font-weight: 400;
+      color: #323232;
+      letter-spacing: 0.4px;
+      text-align: center;
+  
+    }
+
+    .foote_bottom_ul_amrc {
+      list-style-type: none;
+      padding: 0px;
+      display: initial;
+      margin-top: 10px;
+      margin-right: auto;
+      margin-bottom: 10px;
+      margin-left: auto;
+    }
+    .pricing_banner .pricingpage-title {
+      position: relative;
+      font-size: 16px;
+      font-weight: 800;
+      color: #000;
+      text-transform: uppercase;
+      text-align: center;
+      line-height: 70px;
+    }
+    .pricingpage-description {
+      text-align: center;
+      margin-top: 1px;
+      font-size: 14px;
+      color: #000;
+    }
+
+    div.event_containerPage {
+      padding-top: 110px !important;
+      width: 100%;
+      transition: opacity 0.5s ease;
+      box-sizing: border-box;
+      padding-left: 68.5px;
+      padding-right: 68.5px;
+      position: relative;
+      overflow: hidden;
+      padding-bottom: 50px !important;
+      background: url(http://apusthemes.com/wp-demo/cowork/wp-content/uploads/2017/04/faculties.jpg?id=187) left top no-repeat !important;
+    }
+    .facilityPage_container {
+      width: 100%;
+      background: #fff;
+      padding: 50px 0 60px 0;
+    }
+    .description p {
+      margin: 0px;
+      font-size: 13px;
+      justify-content: left;
+      color: #333;
+      line-height: 28px;
+      font-weight: 400;
+      font-family: Montserrat;
+      text-align: center;
+    }
+    .img-wrapper{
+      display: none !important;
+    }
+    .entry-content {
+      padding-top: 20px;
+    }
+    .eventpage_item {
+      width: 100%;
+      padding: 0px;
+      margin: 40px 0;
+    }
+    .col-sm-3.entry_Pad {
+      margin: 20px 0;
+    }
+    .pricing_containerTop {
+      padding-top: 50px !important;
+      width: 100%;
+      transition: opacity 0.5s ease;
+      box-sizing: border-box;
+      padding-left: 68.5px;
+      padding-right: 68.5px;
+      overflow: hidden;
+      padding-bottom: 55px !important;
+      background: url(http://apusthemes.com/wp-demo/cowork/wp-content/uploads/2017/04/pricing-bg.jpg?id=2079) left top no-repeat !important;
+    }
+    .aboutUs_containerPage{
+      display: none;
+    }
+    .aboutusPageContainerText {
+      width: 100%;
+      background: #fff;
+      padding: 0px 0 60px 0;
+      margin-top: 70px;
+    }
+    form [type="submit"] {
+      background: #fff;
+      position: relative;
+      z-index: 9;
+      color: #fff;
+      width: 100%;
+      height: 100%;
+      padding: 0;
+      overflow: hidden;
+      color: #000000;
+      margin-top: 2px;
+      border-radius: 0px !important;
+      -webkit-transform: translateX(-1px);
+      -ms-transform: translateX(-1px);
+      -o-transform: translateX(-1px);
+      transform: translateX(-1px);
+    }
+
+    text-area.form-control.contact_formControl{
+      height: 70px !important;
+    }
+    .faqPage_title {
+      position: relative;
+      font-size: 19px;
+      font-weight: 800;
+      color: #000;
+      text-transform: uppercase;
+      text-align: center;
+      line-height: 70px;
+    }
+    .btn-group{
+      position: relative;
+      display: -ms-block;
+      display: block;
+      vertical-align: middle;
+    }
+    label.btn.btn-secondary.btn_groupSingle{
+      margin: 10px 0 !important;
+    }
+    select.form-control.contact_formControl{
+      margin: 10px 0;
+    }
+  }
+
+
+@media screen and (max-width:1600px){
+  section.event_Container{
+      background: #f4f4f4 !important;
+  }
+  div.event_leftHidden{
+      display: none;
+  }
+  div.col-md-7.col-sm-12.col-12{
+      max-width: 100% !important;
+      width: 100% !important;
+  }
+  .col-sm-7.col-12.paddingTopCls{
+      width: 100% !important;
+      max-width: 100% !important;
+  }
+}
+
+@media(max-width:900px) {
+    .owl-nav .owl-prev {
+      position: absolute;
+      top: 21%;
+      left: 0;
+      display: none;
+    }
+    .owl-nav .owl-next {
+      position: absolute;
+      top: 21%;
+      right: 0px;
+      display: none;
+    }
+    .fullWidth_inner {
+      box-sizing: border-box;
+      padding-left: auto;
+      padding-right:  auto;
+      width: auto;
+    }
+    .eventRight_heading {
+      font-size: 39px;
+      font-weight: 800;
+      margin: 58px 0 46px;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      color: #323232;
+      opacity: 0.1;
+      filter: alpha(opacity=10);
+      padding-left: 30px;
+  }
+    p.miniDetailsList {
+      display: inline-block;
+      width: 100%;
+      margin: 0px 0px;
+      border-bottom: 1px solid #ecf3f7;
+      padding: 5px 2px;
+    }
+    span.acountTitless {
+      font-size: 11px;
+      color: #000000c7;
+    }
+    .entry-titlepage {
+      color: #fff;
+      margin: 0;
+      text-transform: uppercase;
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: 0.8px;
+      line-height: 30px;
+      padding: 0 12px 12px 12px;
+    }
+    .entry-description {
+      font-size: 13px;
+      line-height: 1.5;
+      padding: 0 12px 12px 12px;
+    }
+    .nav-link.active > span.facilityTab-icon {
+      display: block;
+      width: 100%;
+      height: 70px;
+      border-radius: 50%;
+      padding: 0 0 10px 0;
+      border: transparent solid 1px;
+      align-items: center;
+      font-size: 25px;
+      line-height: 25px;
+      color: #333;
+      margin-bottom: 0px;  
+    }
+    .nav-link > span.facilityTab-icon {
+      display: block;
+      width: 100%;
+      height: 70px;
+      border-radius: 50%;
+      padding: 0 0 10px 0;
+      border: transparent solid 1px;
+      align-items: center;
+      font-size: 25px;
+      line-height: 25px;
+      color: #ababab;
+      margin-bottom: 0px;  
+    }
+    .btn-event {
+      width: 100%;
+      margin-top: 50px;
+      font-size: 14px !important;
+      background: transparent;
+      color: #1e1e1e;
+      padding: 17px 30px !important;
+      border: #1e1e1e solid 2px !important;
+      border-radius: 0 !important;
+    }
+    div.tab-row {
+      padding-top: 30px !important;
+      padding-right: 10px !important;
+      padding-bottom: 30px !important;
+      padding-left: 10px !important;
+    }
+    .start-from-heading {
+      width: 100%;
+      font-size: 22px;
+      letter-spacing: 2px;
+      line-height: 30px;
+      padding: 20px 0 10px 0;
+      margin-bottom: 20px;
+      text-align: left;
+      border-bottom: #333 solid 4px;
+    }
+    button.btn.btn-subscribe{
+      width: 50px;
+      height: 46px;
+    }
+    span.outputDetails {
+      float: right;
+      width: auto;
+      text-align: center;
+      color: #00000082;
+      font-weight: 600;
+      font-size: 11px;
+      line-height: 25px;
+    }
+    .subheading-form {
+      width: 100%;
+      display: block;
+      font-size: 18px;
+      letter-spacing: 1px;
+      line-height: 32px;
+      padding: 20px 0 10px 0;
+    }
+    .membership-Joing {
+      background: #f3f1f1;
+      padding: 0 10px 30px 10px;
+    }
+    div.input-grpWidth{
+      width:100% !important; text-align:center;
+    }
+    .navbar-nav{
+      background: rgb(245, 99, 99);
+      padding: 20px 0;
+    }
+    .navbar .navbar-brand {
+      float:none;
+      display: inline-block;
+    }
+    .navbar .navbar-nav>.nav-item { 
+      float: none; 
+      margin-left: .1rem;
+    }
+    .navbar .navbar-nav {
+      float:none !important;
+    }
+    .nav-item{
+      width:100%;
+      text-align:left;
+    } 
+    .navbar-toggler {
+      display: block !important;
+    }
+    .navbar-toggleable-sm.collapse {
+      display:none !important
+    }
+    .navbar-toggleable-sm.collapse.in {
+      display:block !important
+    }
+  }
+
+@media only screen and (min-width: 767px) {
+    .collapse ul li:hover> ul{display:block}
+    .collapse ul ul{position:absolute;top:100%;left:0;min-width:250px;display:none}
+    /*******/
+    .collapse ul ul li{position:relative}
+    .collapse ul ul li:hover> ul{display:block}
+    .collapse ul ul ul{position:absolute;top:0;left:-100%;min-width:250px;display:none}
+    /*******/
+    /* .collapse ul ul ul li{position:relative}
+    .collapse ul ul ul li:hover ul{display:block}
+    .collapse ul ul ul ul{position:absolute;top:0;left:-100%;min-width:250px;display:none;z-index:1} */
+    
+    }
+@media only screen and (max-width: 767px) {
+  .navbar-nav .show .dropdown-menu .dropdown-menu > li > a{padding:16px 15px 16px 35px}
+  .navbar-nav .show .dropdown-menu .dropdown-menu .dropdown-menu > li > a{padding:16px 15px 16px 45px}
+}
+@media(max-width:300px){
+  .btn.btn-success.ml-auto {
+    display: none !important;
+}
+}
+
+@media(max-width:360px) {
+    .fullWidth_title {
+      color: #ffffff;
+      font-size: 16px;
+      letter-spacing: 2px;
+      font-family: inherit;
+    }
+    a.about_Btn {
+      font-size: 12px !important;
+      border: #2A2A2A solid 2px;
+      background-color: transparent;
+      padding-top: 14px;
+      padding-bottom: 14px;
+      padding-left: 20px;
+      padding-right: 20px;
+      font-family: Lato;
+      font-weight: 300;
+      text-transform: uppercase;
+      transition: all ease-in-out 0.3s;
+      text-decoration: none;
+      color: #2A2A2A;
+    }
+    .fullWidth_Section {
+      width: 100%;
+      background: #fff;
+      color: #333;
+      margin-top: 15px !important;
+      padding-top: 14px !important;
+      padding-bottom: 14px !important;
+      background-image: url(http://apusthemes.com/wp-demo/cowork/wp-content/uploads/2017/04/calltoaction-bg.jpg?id=80) !important;
+      background-position: 0 0 !important;
+      background-repeat: no-repeat !important;
+      background-size: cover;
+    }
+
+    .descriptionFullWidth p {
+      margin: 0px;
+      font-size: 12px;
+      color: #fff;
+      line-height: 28px;
+      font-weight: 300;
+    }
+
+    .rightSIde_btn {
+      background: #fff !important;
+      color: #333 !important;
+      padding: 7px 15px !important;
+      border-radius: 0 !important;
+      font-size: 15px !important;
+    }
+    .facility-box h3 {
+      color: #59626b;
+      font-size: 14px;
+      font-weight: normal;
+      text-transform: capitalize;
+      line-height: 36px;
+      letter-spacing: 1px;
+      margin: 0;
+    }
+    .facility-icon {
+      margin-top: 0px;
+      text-align: left;
+      line-height: 0px;
+      font-size: 30px;
+      float: left;
+      display: table;
+      color: #59626b;
+      margin-right: 8px;
+    }
+    .facility-content p {
+      margin-top: 4px;
+      margin-bottom: 10px;
+      font-size: 13px;
+    }
+
+    .eventRight_heading {
+      font-size: 20px;
+      font-weight: 800;
+      margin: 28px 0 11px;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      color: #323232;
+      opacity: 0.1;
+      filter: alpha(opacity=10);
+      padding-left: 28px;
+    }
+    .event_item {
+      width: 100%;
+      padding: 20px 5px 20px 5px;
+      margin-bottom: 50px;
+    }
+
+    .checkAll_Event {
+      margin: 25px 0 0 13px;
+      padding-top: 14px;
+      padding-bottom: 14px;
+      padding-left: 15px;
+      padding-right: 15px;
+      border: #2A2A2A solid 2px;
+      background-color: transparent;
+      color: #2A2A2A;
+      font-size: 12px;
+      border-radius: 0;
+      text-transform: uppercase;
+      text-decoration: none;
+    }
+    .entry-title {
+      color: #fff;
+      margin-left: 10;
+      text-transform: uppercase;
+      font-size: 15px !important;
+      font-weight: 600;
+      letter-spacing: 0px;
+      line-height: 20px;
+    }
+    .entry-title a {
+      color: #7c7c7c;
+      font-size: 15px;
+      text-decoration: none !important;
+      font-weight: 400;
+    }
+
+    .b-price-plan__head > h3 {
+      font-size: 17px;
+      text-align: center;
+      position: relative;
+      z-index: 1;
+      margin: 0;
+      letter-spacing: 1px;
+    }
+
+    .best-plan__title + p {
+      font-size: 14px;
+      font-weight: 300;
+    }
+
+    .b-price-plan__item {
+      padding: 15px 5px;
+    }
+    
+
+    .price_btn {
+      overflow: hidden;
+      position: relative;
+      z-index: 99;
+      margin: 5px auto;
+      font-size: 12px !important;
+      font-weight: 700;
+      letter-spacing: 0px;
+      color: rgba(125,138,164,1);
+      text-decoration: none;
+      text-transform: uppercase;
+      width: 70%;
+      border: 2px solid rgba(125,138,164,1) !important;
+      background: #fff !important;
+      padding: 5px 5px !important;
+      -webkit-border-radius: 5px;
+      border-radius: 5px;
+    }
+
+    .p_plan_list > li .fa {
+      color: rgba(125,138,164,1);
+      margin-right: 8px;
+      width: 16px;
+      height: 16px;
+      position: absolute;
+      top: 50%;
+      left: 10px;
+      margin-top: -8px;
+    }
+
+    .p_plan_list > li {
+      position: relative;
+      padding: 15px 30px 15px 37px;
+      margin: 0;
+      list-style: none;
+      background-color: #fff;
+      border-top: 1px solid rgba(125,138,164,.1);
+      -webkit-transition: all .3s ease;
+      -o-transition: all .3s ease;
+      transition: all .3s ease;
+      font-size: 12px;
+    }
+
+    .card-contentLatest {
+      padding: 0 10px;
+      background: #f6f6f6;
+    }
+    .card-heading {
+      font-size: 15px;
+      margin: 10px 0;
+    }
+    .social_footer_ul li {
+      padding-left: 11px;
+      padding-top: 10px;
+      float: left;
+    }
+
+    
+    .about_usSection {
+      width: 100%;
+      background: #fff;
+      color: #333;
+      padding: 10px 0;  
+    }
+
+    .pricing_container {
+      width: 100%;
+      background: #fff;
+      color: #333;
+      padding: 40px 0 10px 0;  
+    }
+
+    .latest_Container {
+      width: 100%;
+      background: #fff;
+      padding: 50px 0 10px 0;  
+    }
+
+    .fullWidth_Section_new {
+
+      width: 100%;
+      background: #fff;
+      color: #333;
+      margin-top: 15px !important;
+      padding-top: 24px !important;
+      padding-bottom: 24px !important;
+      background-image: url(http://apusthemes.com/wp-demo/cowork/wp-content/uploads/2017/04/twitter.jpg?id=171) !important;
+      background-position: 0 0 !important;
+      background-repeat: no-repeat !important;
+      min-height: 400px;  
+    }
+
+    button.btn-event {
+      width: 100%;
+      margin-top: 50px;
+      font-size: 14px !important;
+      background: transparent;
+      color: #1e1e1e;
+      padding: 17px 5px !important;
+      border: #1e1e1e solid 2px !important;
+      border-radius: 0 !important;
+    }
+
+    .testimonial_container {
+      width: 100%;
+      margin-top: 10px !important;
+      padding: 20px 0;
+      background: #f6f6f6 url(http://apusthemes.com/wp-demo/cowork/wp-content/uploads/2017/04/testimonial.jpg?id=2064) !important;
+    }
+    .pricing_containerTop {
+      padding-top: 50px !important;
+      width: 100%;
+      transition: opacity 0.5s ease;
+      box-sizing: border-box;
+      padding-left: 15px;
+      padding-right: 15px;
+      overflow: hidden;
+      padding-bottom: 55px !important;
+      background: url(http://apusthemes.com/wp-demo/cowork/wp-content/uploads/2017/04/pricing-bg.jpg?id=2079) left top no-repeat !important;
+    }
+    div.event_containerPage {
+      padding-top: 60px !important;
+      width: 100%;
+      transition: opacity 0.5s ease;
+      box-sizing: border-box;
+      padding-left: 15px;
+      padding-right: 15px;
+      position: relative;
+      overflow: hidden;
+      padding-bottom: 50px !important;
+      background: url(http://apusthemes.com/wp-demo/cowork/wp-content/uploads/2017/04/faculties.jpg?id=187) left top no-repeat !important;
+    }
+
+    section.aboutusPageContainerText {
+      width: 100%;
+      background: #fff;
+      padding: 0px 0 60px 0;
+      margin-top: 110px;
+    }
+
+    .aboutPage_description p{
+      text-align: center;
+      font-size: 14px;
+      color: #000;
+    }
+
+    .aboutPage_Para p {
+      font-size: 15px;
+      line-height: 25px;
+      letter-spacing: 0px;
+      font-weight: 400;
+    }
+
+    .btn_contactSubmit{
+      background: transparent !important;
+      color: #333 !important;
+      padding: 5px 20px !important;
+      font-size: 14px;
+      margin-top: 10px !important;
+      border: #333 solid 2px !important;
+      border-radius: 0 !important;
+    }
+    button.faq_accordionText {
+      color: #666 !important;
+      text-decoration: none !important;
+      font-size: 13px !important;
+    }
+    .faq_accordionParagraph {
+      font-size: 15px;
+      line-height: 25px;
+    }
+
+    div.card-header.accordion-cardHeader{
+      padding: 5px 5px !important;
+    }
+    .btn.btn-link.accordion-btn-width {
+      width: 100%;
+      text-align: left !important;
+      color: #000;
+      font-size: 14px;
+      text-transform: uppercase;
+      overflow: hidden;
+    }
+    div.card-header.accordion-cardHeader h5{
+      font-size: 14px !important;
+    }
+    div.card_invoice.card_invoice-body.printableArea{
+      padding: 5px 5px !important;
+    }
+    .spanTextRIght {
+      margin-left: 0px;
+      display: block;
+      font-size: 12px !important;
+      color: red !important;
+      text-decoration: none;
+      text-transform: capitalize;
+    }
+
+    .btn.btn-outline-primary.my-3{
+      word-break: break-all !important;
+      font-size: 13px;
+    }
+
+    nav.justify-content-end {
+      justify-content: flex !important;
+    }
+}
+
+@media screen and (max-width: 1300px) and (orientation: landscape) {
+  div.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 24% !important;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+  }
+  .sliderItem_H {
+    font-size: 4rem;
+    font-weight: bold;
+    text-shadow: #000 0 5px 9px;
+  }
+} 
+
+@media(max-width:992px){
+  .headin5_amrc.col_white_amrc.pt2{
+    font-size: 15px;
+  }
+}
